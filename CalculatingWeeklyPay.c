@@ -1,4 +1,6 @@
-
+//Lucas Ghigli
+//Weekly pay Program
+//04/05/2023
 #include <stdio.h>
 
 int main() {
