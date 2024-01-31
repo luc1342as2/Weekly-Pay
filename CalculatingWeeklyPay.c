@@ -1,6 +1,6 @@
 //Lucas Ghigli
 //Weekly pay Program
-//04/05/2023
+//01/10/2024
 
 #include <stdio.h>
 
